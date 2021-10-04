@@ -63,6 +63,7 @@ class SearchViewController: UIViewController {
                         self.unitArray.append(contentsOf: units!)
                     })
                     DataBaseHelper.shared.insertUnitDetail(units: self.unitArray)
+                   
                     print(self.unitArray)
                     self.tableView.reloadData()
                     

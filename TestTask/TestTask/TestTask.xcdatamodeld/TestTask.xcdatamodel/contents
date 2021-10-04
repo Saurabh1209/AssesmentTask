@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15508" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Activities" representedClassName="Activities" syncable="YES">
+        <attribute name="activityName" optional="YES" attributeType="String"/>
+        <attribute name="activityStatus" optional="YES" attributeType="String"/>
+        <attribute name="currentUserName" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="progress" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="stepName" optional="YES" attributeType="String"/>
+        <attribute name="unitsId" optional="YES" attributeType="String"/>
+        <attribute name="wf" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Units" representedClassName="Units" syncable="YES">
+        <attribute name="apt" optional="YES" attributeType="String"/>
+        <attribute name="blockId" optional="YES" attributeType="String"/>
+        <attribute name="blockName" optional="YES" attributeType="String"/>
+        <attribute name="floor" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="propertyId" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="unitType" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Activities" positionX="-54" positionY="54" width="128" height="163"/>
+        <element name="Units" positionX="-63" positionY="-18" width="128" height="163"/>
+    </elements>
+</model>

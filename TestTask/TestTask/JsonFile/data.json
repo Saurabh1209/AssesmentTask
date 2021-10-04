@@ -1,0 +1,333 @@
+[
+  {
+    "block_name": "Tower A",
+    "units": [
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Prasun Ghosh",
+            "id": "OCNA_F01_U02_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF CPSF",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Malay Jana",
+            "id": "OCNA_F01_U02_WF_CPSF",
+            "step_name": "CP Sanitary Fixing Post Check",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF ELWR",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Prasun Ghosh",
+            "id": "OCNA_F01_U02_WF_ELWR",
+            "step_name": "Electrical Wiring",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF ESSD",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Prasun Ghosh",
+            "id": "OCNA_F01_U02_WF_ESSD",
+            "step_name": "Electrical Switch, Socket, DB, Fixing",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF EXWP",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Malay Jana",
+            "id": "OCNA_F01_U02_WF_EXWP",
+            "step_name": "External Surface Waterproofing Post Check",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF FAIF",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Malay Jana",
+            "id": "OCNA_F01_U02_WF_FAIF",
+            "step_name": "Fire Accessories Inside Flat Post Check",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF PLTK",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Malay Jana",
+            "id": "OCNA_F01_U02_WF_PLTK",
+            "step_name": "Plumbing Line into Toilet Kit, With Testing Post Check",
+            "progress": 100,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF WKBT",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Malay Jana",
+            "id": "OCNA_F01_U02_WF_WKBT",
+            "step_name": "Water Proofing at Kitchen, Balcony & Toilet Post Check",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "02",
+        "block_id": "OCNA-1",
+        "block_name": "Tower A",
+        "floor": "01",
+        "id": "OCNA_F01_U02",
+        "property_id": "OCNA",
+        "title": "OCNA-F1-B",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF AABW",
+            "activity_status": "Active",
+            "current_user_name": "Mr. Pijush Kanti Porel",
+            "id": "OCNA_F01_U04_WF_AABW",
+            "step_name": "AAC Block Work",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "04",
+        "block_id": "OCNA-1",
+        "block_name": "Tower A",
+        "floor": "01",
+        "id": "OCNA_F01_U04",
+        "property_id": "OCNA",
+        "title": "OCNA-F1-D",
+        "unit_type": "apt"
+      }
+    ]
+  },
+  {
+    "block_name": "Tower E",
+    "units": [
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U01_A01_WF_ACLF",
+            "step_name": "AC Ledge Fixing 1",
+            "progress": 70,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U01_A02_WF_ACLF",
+            "step_name": "AC Ledge Fixing 2",
+            "progress": 60,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U01_A03_WF_ACLF",
+            "step_name": "AC Ledge Fixing 3",
+            "progress": 35,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U01_A04_WF_ACLF",
+            "step_name": "AC Ledge Fixing 4",
+            "progress": 60,
+            "wf": ""
+          }
+        ],
+        "apt": "01",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_01",
+        "title": "OPHE-07-01",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U02_A01_WF_ACLF",
+            "step_name": "AC Ledge Fixing 1",
+            "progress": 35,
+            "wf": ""
+          },
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U02_A02_WF_ACLF",
+            "step_name": "AC Ledge Fixing 2",
+            "progress": 20,
+            "wf": ""
+          }
+        ],
+        "apt": "02",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_02",
+        "title": "OPHE-07-02",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U03_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "03",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_03",
+        "title": "OPHE-07-03",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U04_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "04",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_04",
+        "title": "OPHE-07-04",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U05_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "05",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_05",
+        "title": "OPHE-07-05",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U06_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "06",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_06",
+        "title": "OPHE-07-06",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U07_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "07",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_07",
+        "title": "OPHE-07-07",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U08_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "08",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_08",
+        "title": "OPHE-07-08",
+        "unit_type": "apt"
+      },
+      {
+        "activities": [
+          {
+            "activity_name": "WF ACLF",
+            "activity_status": "Active",
+            "current_user_name": "Suranjan Maiti",
+            "id": "OPHE_B01_F07_U09_WF_ACLF",
+            "step_name": "AC Ledge Fixing",
+            "progress": 100,
+            "wf": ""
+          }
+        ],
+        "apt": "09",
+        "block_id": "OPHE-1",
+        "block_name": "Tower E",
+        "floor": "07",
+        "id": "OPHE_07_09",
+        "title": "OPHE-07-09",
+        "unit_type": "apt"
+      }
+    ]
+  }
+]
